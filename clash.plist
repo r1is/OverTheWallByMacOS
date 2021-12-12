@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC -//Apple Computer//DTD PLIST 1.0//EN
+http://www.apple.com/DTDs/PropertyList-1.0.dtd >
+
+<plist version="1.0">
+<dict>
+<!-- Label中string的值必须与文件名一致 -->
+    <key>Label</key>
+    <string>clash</string>
+    <key>ProgramArguments</key>
+    <array>
+<!-- 执行命令: /usr/loacl/etc/clash/clash -d /usr/loacl/etc/clash -->
+        <string>/usr/local/etc/clash/clash</string>
+        <string>-d</string>
+        <string>/usr/local/etc/clash</string>
+    </array>
+
+    <key>KeepAlive</key>
+    <false/>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+</dict>
+</plist>
