@@ -6,17 +6,17 @@
 
 本项目中使用的`clash`的配置文件仅供演示，请自行购买支持`clash`的机场服务，下载其提供的配置文件，并改名为`config.yaml`
 
-重点：**下载其提供的配置文件，并改名为`config.yaml`**
+重点：**下载其提供的配置文件，并改名为`config.yaml`，本文提供的`config.yaml`已失效，请自行购买！**
 
-重点：**下载其提供的配置文件，并改名为`config.yaml`**
+重点：**下载其提供的配置文件，并改名为`config.yaml`,本文提供的`config.yaml`已失效，请自行购买！**
 
-重点：**下载其提供的配置文件，并改名为`config.yaml`**
+重点：**下载其提供的配置文件，并改名为`config.yaml`,本文提供的`config.yaml`已失效，请自行购买！**
 
 ### 步骤
 
 ```bash
-git clone xxxxxxx
-cd xxxx
+git clone https://github.com/RyzeZR/OverTheWallByMacOS.git
+cd OverTheWallByMacOS
 chmod +x install.sh
 ./install.sh # 如提示权限不足，则 sudo ./install
 ```
